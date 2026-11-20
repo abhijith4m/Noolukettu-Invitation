@@ -1,0 +1,1 @@
+Open index.html in Chrome or Edge. The photos and original background music are embedded directly in the HTML file, so no separate asset files are required. Click the envelope. If music is blocked, tap Music: On.
